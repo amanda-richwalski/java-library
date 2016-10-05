@@ -17,19 +17,19 @@ public class _01_while {
 		//}
 		
 		
-		int countTwo = 10;
-		while(countTwo >= 0){
-			System.out.println(countTwo);
-			countTwo--;
-		}
+		//int countTwo = 10;
+		//while(countTwo >= 0){
+			//System.out.println(countTwo);
+			//countTwo--;
+		//}
 		
 		//From 100 count backwards by 5s
 		
-		int countThree = 100;
-		while(countThree >= 0){
-			System.out.println(countThree);
-			countThree -= 5;
-		}
+		//int countThree = 100;
+		//while(countThree >= 0){
+			//System.out.println(countThree);
+			//countThree -= 5;
+		//}
 		
 		
 		

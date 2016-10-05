@@ -1,12 +1,19 @@
 package _02_Hello_World;
 
+import _17_Encapsulation.BearsPlayers;
+
 public class _01_HelloWorld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello World!");
-		// TODO Auto-generated method stub
-
+	
+		
+		BearsPlayers mDitka = new BearsPlayers();
+		mDitka.name = "Mike Ditka";
+		mDitka.setNumber(1);
+		System.out.println(mDitka.getNumber());
+		
+		
 	}
 
 }
